@@ -1,6 +1,6 @@
 
   # **Test Project**
-  undefined
+  
   ## Description 
   This is a sample README.md that will be created from the ReadMe-Generator command line application
   ## Table of contents
