@@ -1,0 +1,22 @@
+{
+  "name": "kylepace",
+  "version": "1.0.0",
+  "description": "A readme generator for school",
+  "main": "1",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killerkyle/ReadMe.git"
+  },
+  "keywords": [
+    "README"
+  ],
+  "author": "Kyle Pace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killerkyle/ReadMe/issues"
+  },
+  "homepage": "https://github.com/killerkyle/ReadMe#readme"
+}
