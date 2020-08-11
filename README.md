@@ -13,11 +13,11 @@
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
   ## Installation
-           [![Watch this video for instructions](doc/gifName.gif)](https://youtu.be/dI2b9_VAzp8)
+        (https://youtu.be/dI2b9_VAzp8)
   ## Usage
   Watch this video for usage instructions
   ## Licence
-  MIT
+  ## ![License: MIT](https://img.shields.io/badge/License-MIT-informational?style=for-the-badge&logo=appveyor.svg)
   ## Contributors
   
   ## Test
@@ -26,7 +26,6 @@
   - [Project Repo](https://github.com/killerkyle/ReadMe)
   ## GitHub
   ![Image of me](https://avatars0.githubusercontent.com/u/65184417?v=4)
-  - null
   - [GitHub Profile](https://github.com/killerkyle)
-  - <null>
+  
   
