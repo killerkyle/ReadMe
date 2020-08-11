@@ -1,6 +1,6 @@
 
   # **Test Project**
-  undefined
+  
   ## Description 
   This is a sample README.md that will be created from the ReadMe-Generator command line application
   ## Table of contents
@@ -14,6 +14,7 @@
   - [GitHub Info](#GitHub) 
   ## Installation
           Watch this video for instructions
+          https://youtu.be/dI2b9_VAzp8
   ## Usage
   Watch this video for usage instructions
   ## Licence
@@ -28,5 +29,5 @@
   ![Image of me](https://avatars0.githubusercontent.com/u/65184417?v=4)
   - null
   - [GitHub Profile](https://github.com/killerkyle)
-  - <null>
+  
   
