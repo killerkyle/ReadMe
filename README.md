@@ -1,8 +1,8 @@
 
   # **Test Project**
-  1
+  undefined
   ## Description 
-  This is a sample README.md that will be createed from the command line app
+  This is a sample README.md that will be created from the ReadMe-Generator command line application
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -13,15 +13,15 @@
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
   ## Installation
-          watch this video for instructions
+          Watch this video for instructions
   ## Usage
-  watch this for usage instructions
+  Watch this video for usage instructions
   ## Licence
   MIT
   ## Contributors
-  none
+  
   ## Test
-  Testing will come in the future
+  Testing information will come soon
   ## Repository
   - [Project Repo](https://github.com/killerkyle/ReadMe)
   ## GitHub
