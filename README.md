@@ -13,7 +13,8 @@
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
   ## Installation
-        (https://youtu.be/dI2b9_VAzp8)
+  ![GIF demonstrating installation and use](./Utilities/gif.gif)  
+  [YouTube video](https://youtu.be/dI2b9_VAzp8)
   ## Usage
   Watch this video for usage instructions
   ## Licence
