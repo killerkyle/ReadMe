@@ -13,7 +13,7 @@
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
   ## Installation
-          Watch this video for instructions
+           [![Watch this video for instructions](doc/gifName.gif)](https://youtu.be/dI2b9_VAzp8)
   ## Usage
   Watch this video for usage instructions
   ## Licence
